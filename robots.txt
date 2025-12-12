@@ -1,0 +1,13 @@
+# robots.txt for issue-manager.co.kr
+# 학원 정보 사이트
+
+# 모든 검색 엔진 크롤러 허용
+User-agent: *
+Allow: /
+
+# Sitemap 위치
+Sitemap: https://issue-manager.co.kr/sitemap.xml
+
+# RSS 피드 위치 (선택사항)
+# RSS: https://issue-manager.co.kr/rss.xml
+
