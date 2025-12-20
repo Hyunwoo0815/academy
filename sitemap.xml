@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://issue-manager.co.kr/</loc>
-    <lastmod>2025-12-16</lastmod>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -26,13 +26,13 @@
   </url>
   <url>
     <loc>https://issue-manager.co.kr/404</loc>
-    <lastmod>2025-12-14</lastmod>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://issue-manager.co.kr/</loc>
-    <lastmod>2025-12-16</lastmod>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -61,6 +61,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/강릉시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/강릉시-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -73,8 +79,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/강진군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/거제시-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/거제시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -97,6 +115,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/거창군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/거창군-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -111,6 +135,12 @@
   <url>
     <loc>https://issue-manager.co.kr/경산시-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/경산시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -133,6 +163,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/경주시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/경주시-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -141,6 +177,12 @@
   <url>
     <loc>https://issue-manager.co.kr/경주시-초등-피아노학원-후기-연락처-안내</loc>
     <lastmod>2025-12-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/고령군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -157,6 +199,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/고성군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/고성군-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -165,6 +213,12 @@
   <url>
     <loc>https://issue-manager.co.kr/고양시-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/고양시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -181,8 +235,32 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/고창군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/고흥군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/곡성군-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/곡성군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/공주시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -195,6 +273,12 @@
   <url>
     <loc>https://issue-manager.co.kr/과천시-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/과천시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -217,6 +301,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/광명시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/광명시-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -235,6 +325,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/광양시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/광양시-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -243,6 +339,12 @@
   <url>
     <loc>https://issue-manager.co.kr/광주-광산구-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/광주-광산구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -265,6 +367,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/광주-남구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/광주-남구-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -279,6 +387,12 @@
   <url>
     <loc>https://issue-manager.co.kr/광주-동구-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/광주-동구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -301,6 +415,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/광주-북구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/광주-북구-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -315,6 +435,12 @@
   <url>
     <loc>https://issue-manager.co.kr/광주-서구-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/광주-서구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -337,8 +463,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/괴산군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/괴산군-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/구례군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -351,6 +489,12 @@
   <url>
     <loc>https://issue-manager.co.kr/구리시-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/구리시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -373,6 +517,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/구미시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/구미시-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -391,6 +541,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/군산시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/군산시-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -405,6 +561,12 @@
   <url>
     <loc>https://issue-manager.co.kr/군포시-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/군포시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -433,6 +595,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/김제시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/김제시-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -441,6 +609,12 @@
   <url>
     <loc>https://issue-manager.co.kr/김천시-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/김천시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -463,6 +637,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/김포시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/김포시-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -477,6 +657,12 @@
   <url>
     <loc>https://issue-manager.co.kr/김해시-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/김해시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -499,6 +685,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/나주시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/나주시-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -513,6 +705,12 @@
   <url>
     <loc>https://issue-manager.co.kr/남양주시-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/남양주시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -535,6 +733,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/남원시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/남원시-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -553,6 +757,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/남해군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/남해군-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -561,6 +771,12 @@
   <url>
     <loc>https://issue-manager.co.kr/논산시-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/논산시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -583,6 +799,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/단양군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/담양군-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -597,6 +819,12 @@
   <url>
     <loc>https://issue-manager.co.kr/당진시-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/당진시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -619,6 +847,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/대구-남구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/대구-남구-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -633,6 +867,12 @@
   <url>
     <loc>https://issue-manager.co.kr/대구-달서구-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/대구-달서구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -655,6 +895,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/대구-달성군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/대구-달성군-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -669,6 +915,12 @@
   <url>
     <loc>https://issue-manager.co.kr/대구-동구-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/대구-동구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -691,6 +943,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/대구-북구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/대구-북구-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -705,6 +963,12 @@
   <url>
     <loc>https://issue-manager.co.kr/대구-서구-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/대구-서구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -727,6 +991,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/대구-수성구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/대구-수성구-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -741,6 +1011,12 @@
   <url>
     <loc>https://issue-manager.co.kr/대구-중구-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/대구-중구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -763,6 +1039,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/대전-대덕구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/대전-대덕구-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -777,6 +1059,12 @@
   <url>
     <loc>https://issue-manager.co.kr/대전-동구-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/대전-동구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -799,6 +1087,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/대전-서구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/대전-서구-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -813,6 +1107,12 @@
   <url>
     <loc>https://issue-manager.co.kr/대전-유성구-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/대전-유성구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -835,6 +1135,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/대전-중구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/대전-중구-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -853,6 +1159,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/동두천시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/동두천시-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -861,6 +1173,12 @@
   <url>
     <loc>https://issue-manager.co.kr/동해시-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/동해시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -883,6 +1201,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/목포시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/목포시-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -901,6 +1225,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/무안군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/무안군-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -913,8 +1243,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/무주군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/무주군-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/문경시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -937,6 +1279,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/미분류-미분류-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/미분류-미분류-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -955,6 +1303,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/밀양시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/밀양시-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -963,6 +1317,12 @@
   <url>
     <loc>https://issue-manager.co.kr/밀양시-초등-피아노학원-후기-연락처-안내</loc>
     <lastmod>2025-12-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/보령시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -979,14 +1339,32 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/보성군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/보성군-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/봉화군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/부산-강서구-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/부산-강서구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1009,6 +1387,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/부산-금정구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/부산-금정구-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -1027,6 +1411,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/부산-기장군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/부산-기장군-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -1041,6 +1431,12 @@
   <url>
     <loc>https://issue-manager.co.kr/부산-남구-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/부산-남구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1075,6 +1471,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/부산-동래구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/부산-동래구-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -1089,6 +1491,12 @@
   <url>
     <loc>https://issue-manager.co.kr/부산-부산진구-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/부산-부산진구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1111,6 +1519,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/부산-북구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/부산-북구-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -1125,6 +1539,12 @@
   <url>
     <loc>https://issue-manager.co.kr/부산-사상구-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/부산-사상구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1147,6 +1567,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/부산-사하구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/부산-사하구-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -1161,6 +1587,12 @@
   <url>
     <loc>https://issue-manager.co.kr/부산-서구-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/부산-서구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1183,6 +1615,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/부산-수영구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/부산-수영구-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -1197,6 +1635,12 @@
   <url>
     <loc>https://issue-manager.co.kr/부산-연제구-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/부산-연제구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1219,6 +1663,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/부산-영도구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/부산-영도구-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -1227,6 +1677,12 @@
   <url>
     <loc>https://issue-manager.co.kr/부산-영도구-초등-피아노학원-후기-연락처-안내</loc>
     <lastmod>2025-12-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/부산-중구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1243,6 +1699,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/부산-해운대구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/부산-해운대구-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -1255,8 +1717,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/부안군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/부안군-초등-피아노학원-후기-연락처-안내</loc>
     <lastmod>2025-12-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/부여군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1269,6 +1743,12 @@
   <url>
     <loc>https://issue-manager.co.kr/부천시-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/부천시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1291,6 +1771,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/사천시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/사천시-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -1303,6 +1789,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/산청군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/산청군-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -1311,6 +1803,12 @@
   <url>
     <loc>https://issue-manager.co.kr/삼척시-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/삼척시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1333,6 +1831,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/상주시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/상주시-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -1341,6 +1845,12 @@
   <url>
     <loc>https://issue-manager.co.kr/서산시-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/서산시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1363,6 +1873,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/서울-강남구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/서울-강남구-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -1377,6 +1893,12 @@
   <url>
     <loc>https://issue-manager.co.kr/서울-강동구-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/서울-강동구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1399,6 +1921,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/서울-강북구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/서울-강북구-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -1413,6 +1941,12 @@
   <url>
     <loc>https://issue-manager.co.kr/서울-강서구-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/서울-강서구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1435,6 +1969,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/서울-관악구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/서울-관악구-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -1449,6 +1989,12 @@
   <url>
     <loc>https://issue-manager.co.kr/서울-광진구-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/서울-광진구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1471,6 +2017,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/서울-구로구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/서울-구로구-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -1485,6 +2037,12 @@
   <url>
     <loc>https://issue-manager.co.kr/서울-금천구-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/서울-금천구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1507,6 +2065,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/서울-노원구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/서울-노원구-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -1521,6 +2085,12 @@
   <url>
     <loc>https://issue-manager.co.kr/서울-도봉구-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/서울-도봉구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1543,6 +2113,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/서울-동대문구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/서울-동대문구-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -1557,6 +2133,12 @@
   <url>
     <loc>https://issue-manager.co.kr/서울-동작구-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/서울-동작구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1579,6 +2161,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/서울-마포구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/서울-마포구-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -1593,6 +2181,12 @@
   <url>
     <loc>https://issue-manager.co.kr/서울-서대문구-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/서울-서대문구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1615,6 +2209,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/서울-서초구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/서울-서초구-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -1629,6 +2229,12 @@
   <url>
     <loc>https://issue-manager.co.kr/서울-성동구-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/서울-성동구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1651,6 +2257,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/서울-성북구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/서울-성북구-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -1665,6 +2277,12 @@
   <url>
     <loc>https://issue-manager.co.kr/서울-송파구-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/서울-송파구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1687,6 +2305,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/서울-양천구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/서울-양천구-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -1701,6 +2325,12 @@
   <url>
     <loc>https://issue-manager.co.kr/서울-영등포구-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/서울-영등포구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1723,6 +2353,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/서울-용산구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/서울-용산구-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -1737,6 +2373,12 @@
   <url>
     <loc>https://issue-manager.co.kr/서울-은평구-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/서울-은평구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1759,8 +2401,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/서울-종로구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/서울-종로구-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/서울-중구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1783,6 +2437,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/서울-중랑구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/서울-중랑구-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -1801,6 +2461,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/성남시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/성남시-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -1813,6 +2479,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/세종-고운동-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/세종-고운동-초등-피아노학원-후기-연락처-안내</loc>
     <lastmod>2025-12-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -1821,6 +2493,12 @@
   <url>
     <loc>https://issue-manager.co.kr/세종-나성동-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/세종-나성동-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1855,6 +2533,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/세종-반곡동-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/세종-보람동-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -1879,6 +2563,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/세종-새롬동-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/세종-새롬동-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -1887,6 +2577,12 @@
   <url>
     <loc>https://issue-manager.co.kr/세종-새롬동-초등-피아노학원-후기-연락처-안내</loc>
     <lastmod>2025-12-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/세종-소담동-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1905,6 +2601,12 @@
   <url>
     <loc>https://issue-manager.co.kr/세종-아름동-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/세종-아름동-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1951,6 +2653,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/속초시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/속초시-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -1959,6 +2667,12 @@
   <url>
     <loc>https://issue-manager.co.kr/수원시-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/수원시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1975,6 +2689,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/순창군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/순창군-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -1983,6 +2703,12 @@
   <url>
     <loc>https://issue-manager.co.kr/순천시-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/순천시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2005,6 +2731,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/시흥시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/시흥시-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -2019,6 +2751,12 @@
   <url>
     <loc>https://issue-manager.co.kr/아산시-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/아산시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2041,6 +2779,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/안동시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/안동시-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -2055,6 +2799,12 @@
   <url>
     <loc>https://issue-manager.co.kr/안산시-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/안산시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2077,6 +2827,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/안성시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/안성시-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -2091,6 +2847,12 @@
   <url>
     <loc>https://issue-manager.co.kr/안양시-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/안양시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2113,6 +2875,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/양산시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/양산시-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -2125,6 +2893,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/양양군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/양양군-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -2133,6 +2907,12 @@
   <url>
     <loc>https://issue-manager.co.kr/양주시-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/양주시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2155,6 +2935,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/양평군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/양평군-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -2163,6 +2949,12 @@
   <url>
     <loc>https://issue-manager.co.kr/여수시-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/여수시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2181,6 +2973,12 @@
   <url>
     <loc>https://issue-manager.co.kr/여주시-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/여주시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2221,8 +3019,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/영광군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/영광군-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/영덕군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2235,6 +3045,12 @@
   <url>
     <loc>https://issue-manager.co.kr/영덕군-초등-피아노학원-후기-연락처-안내</loc>
     <lastmod>2025-12-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/영동군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2281,6 +3097,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/영주시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/영주시-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -2295,6 +3117,12 @@
   <url>
     <loc>https://issue-manager.co.kr/영천시-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/영천시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2317,6 +3145,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/예산군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/예산군-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -2331,6 +3165,12 @@
   <url>
     <loc>https://issue-manager.co.kr/예천군-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/예천군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2353,6 +3193,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/오산시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/오산시-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -2367,6 +3213,12 @@
   <url>
     <loc>https://issue-manager.co.kr/옥천군-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/옥천군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2389,8 +3241,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/완도군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/완주군-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/완주군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2413,6 +3277,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/용인시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/용인시-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -2427,6 +3297,12 @@
   <url>
     <loc>https://issue-manager.co.kr/울산-남구-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/울산-남구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2449,6 +3325,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/울산-동구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/울산-동구-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -2463,6 +3345,12 @@
   <url>
     <loc>https://issue-manager.co.kr/울산-북구-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/울산-북구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2485,6 +3373,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/울산-울주군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/울산-울주군-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -2499,6 +3393,12 @@
   <url>
     <loc>https://issue-manager.co.kr/울산-중구-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/울산-중구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2521,6 +3421,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/울진군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/울진군-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -2529,6 +3435,12 @@
   <url>
     <loc>https://issue-manager.co.kr/원주시-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/원주시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2551,6 +3463,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/음성군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/음성군-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -2563,8 +3481,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/의령군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/의령군-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/의성군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2577,6 +3507,12 @@
   <url>
     <loc>https://issue-manager.co.kr/의왕시-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/의왕시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2599,6 +3535,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/의정부시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/의정부시-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -2613,6 +3555,12 @@
   <url>
     <loc>https://issue-manager.co.kr/이천시-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/이천시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2635,6 +3583,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/익산시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/익산시-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -2643,6 +3597,12 @@
   <url>
     <loc>https://issue-manager.co.kr/익산시-초등-피아노학원-후기-연락처-안내</loc>
     <lastmod>2025-12-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/인제군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2665,6 +3625,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/인천-계양구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/인천-계양구-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -2683,6 +3649,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/인천-남동구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/인천-남동구-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -2691,6 +3663,12 @@
   <url>
     <loc>https://issue-manager.co.kr/인천-남동구-초등-피아노학원-후기-연락처-안내</loc>
     <lastmod>2025-12-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/인천-동구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2713,6 +3691,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/인천-미추홀구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/인천-미추홀구-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -2727,6 +3711,12 @@
   <url>
     <loc>https://issue-manager.co.kr/인천-부평구-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/인천-부평구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2749,6 +3739,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/인천-서구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/인천-서구-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -2763,6 +3759,12 @@
   <url>
     <loc>https://issue-manager.co.kr/인천-연수구-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/인천-연수구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2785,6 +3787,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/인천-중구-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/인천-중구-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -2793,6 +3801,12 @@
   <url>
     <loc>https://issue-manager.co.kr/인천-중구-초등-피아노학원-후기-연락처-안내</loc>
     <lastmod>2025-12-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/임실군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2809,6 +3823,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/장성군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/장수군-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -2817,6 +3837,12 @@
   <url>
     <loc>https://issue-manager.co.kr/전주시-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/전주시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2833,6 +3859,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/정선군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/정선군-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -2841,6 +3873,12 @@
   <url>
     <loc>https://issue-manager.co.kr/정읍시-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/정읍시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2863,6 +3901,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/제주-서귀포시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/제주-서귀포시-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -2877,6 +3921,12 @@
   <url>
     <loc>https://issue-manager.co.kr/제주-제주시-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/제주-제주시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2899,6 +3949,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/제천시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/제천시-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -2911,6 +3967,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/증평군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/증평군-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -2919,6 +3981,12 @@
   <url>
     <loc>https://issue-manager.co.kr/증평군-초등-피아노학원-후기-연락처-안내</loc>
     <lastmod>2025-12-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/진도군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2941,6 +4009,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/진주시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/진주시-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -2959,6 +4033,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/진천군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/진천군-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -2967,6 +4047,12 @@
   <url>
     <loc>https://issue-manager.co.kr/진천군-초등-피아노학원-후기-연락처-안내</loc>
     <lastmod>2025-12-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/창녕군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2989,6 +4075,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/창원시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/창원시-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -3003,6 +4095,12 @@
   <url>
     <loc>https://issue-manager.co.kr/천안시-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/천안시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3025,6 +4123,18 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/철원군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/청도군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/청도군-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -3037,6 +4147,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/청송군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/청양군-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -3045,6 +4161,12 @@
   <url>
     <loc>https://issue-manager.co.kr/청주시-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/청주시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3067,6 +4189,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/춘천시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/춘천시-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -3081,6 +4209,12 @@
   <url>
     <loc>https://issue-manager.co.kr/충주시-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/충주시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3103,6 +4237,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/칠곡군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/칠곡군-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -3117,6 +4257,12 @@
   <url>
     <loc>https://issue-manager.co.kr/태백시-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/태안군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3139,6 +4285,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/통영시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/통영시-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -3157,6 +4309,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/파주시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/파주시-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -3169,6 +4327,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/평창군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/평창군-초등-피아노학원-후기-연락처-안내</loc>
     <lastmod>2025-12-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -3177,6 +4341,12 @@
   <url>
     <loc>https://issue-manager.co.kr/평택시-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/평택시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3199,6 +4369,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/포천시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/포천시-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -3213,6 +4389,12 @@
   <url>
     <loc>https://issue-manager.co.kr/포항시-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/포항시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3235,6 +4417,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/하남시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/하남시-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -3243,6 +4431,18 @@
   <url>
     <loc>https://issue-manager.co.kr/하남시-초등-피아노학원-후기-연락처-안내</loc>
     <lastmod>2025-12-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/하동군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/함안군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3265,6 +4465,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/함양군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/함평군-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -3277,14 +4483,32 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/합천군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/해남군-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/해남군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/홍성군-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/홍성군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3307,6 +4531,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/홍천군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/홍천군-초등-수학학원-후기-연락처-안내</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -3315,6 +4545,12 @@
   <url>
     <loc>https://issue-manager.co.kr/화성시-유아-미술학원-후기-연락처-안내</loc>
     <lastmod>2025-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/화성시-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3331,8 +4567,26 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://issue-manager.co.kr/화순군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/화천군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://issue-manager.co.kr/화천군-초등-피아노학원-후기-연락처-안내</loc>
     <lastmod>2025-12-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://issue-manager.co.kr/횡성군-중등-영어학원-후기-연락처-안내</loc>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
